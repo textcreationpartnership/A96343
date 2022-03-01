@@ -1,0 +1,348 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter sent to his Excellencie Sir Thomas Fairfax. VVith an account to the officers of the Generalls regiment, intended for satisfaction to their demands. Likewise seaven heads which are presented to the Generall by some officers of the regiment, and some other particulars in relation thereunto published. / By Francis White, Maior of the Generalls regiment of foot.</title>
+            <author>White, Francis, d. 1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96343</idno>
+            <idno type="STC">Wing W1764A</idno>
+            <idno type="STC">Thomason E413_17</idno>
+            <idno type="STC">ESTC R204487</idno>
+            <idno type="EEBO-CITATION">99863977</idno>
+            <idno type="PROQUEST">99863977</idno>
+            <idno type="VID">161273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96343)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161273)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E413[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter sent to his Excellencie Sir Thomas Fairfax. VVith an account to the officers of the Generalls regiment, intended for satisfaction to their demands. Likewise seaven heads which are presented to the Generall by some officers of the regiment, and some other particulars in relation thereunto published. / By Francis White, Maior of the Generalls regiment of foot.</title>
+                  <author>White, Francis, d. 1657.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161273:1" rendition="simple:additions"/>
+            <p>The Copy of a LETTER Sent to his Excellencie Sir Thomas Fairfax.</p>
+            <p>VVith an ACCOUNT TO THE OFFICERS OF THE Generalls Regiment, intended for ſatis<g ref="char:EOLhyphen"/>faction to their demands. Likewiſe ſeaven heads which are preſented to the Generall by ſome Officers of the Regiment, and ſome o<g ref="char:EOLhyphen"/>ther particulars in relation thereunto publiſhed.</p>
+            <p>By <hi>Francis White,</hi> Maior of the Generalls Regiment of Foot.</p>
+            <q>
+               <p>
+                  <hi>Bleſſed is the ſervant whom his Lord when he commeth ſhall find ſo doing.</hi>
+               </p>
+               <p>
+                  <hi>But if the evill ſervant ſhall ſay in his heart, my Lord delayes his coming, and ſhall begin to ſmite his fellow ſervants, and to hate, and drinke with the drunken; the Lord of that ſervant ſhall come in a day when he looketh for him, and in an houre he is not aware of</hi>
+               </p> 
+               <bibl>Mat. 24.46, 48.49.</bibl>
+            </q>
+            <p>Printed in the Yeare. 1647</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161273:2"/>
+            <pb n="1" facs="tcp:161273:2"/>
+            <head>The Copy of a Letter ſent to his Excellency Sir <hi>Thomas Fairfax,</hi> with an account to the Officers of the Generalls Regiment, intended for ſatisfaction to their demands.</head>
+            <p>
+               <seg rend="decorInit">I</seg>Tt is not my deſire in publiſhing theſe things, after written to appeare ſingular, or to be taken notice of among men, but only to cleare my integritie, to ſeek preſervations. I being choſen an Agitator for the Generalls Regiments to act in relation to thoſe ends expreſt in <hi>the ſolemn ingagement of the Army,</hi> and be<g ref="char:EOLhyphen"/>ing called thereunto by the Generall, and alſo cho<g ref="char:EOLhyphen"/>ſen one of the Committees appointed by the generall Councell, to diſpatch things of immergent neceſſitie, and to prepare things in order to the great ends, <hi>viz.</hi> ſatisfaction and ſecurity, I was likewiſe appointed by this Committee, with the approbation of the Generall, to ſit with the Committee of Lords and Commons at the Head Quartes, which they were not very well pleaſed with. But being at their convention I ſpake ſome words which gave diſtaſt, <hi>viz</hi> that they were repairing an old houſe &amp; that when they were laying the top ſtone, it would fall about their eares. I alſo ſaid it is evident, that the Parliament dare doe nothing, but what is a<g ref="char:EOLhyphen"/>greeable to the ſenſe of the Army. And that the Parliament was grown into parties and factions. The next day, the Commiſſary Generall ſpeake to the Grand Committees, where <hi>I</hi> was preſent, to have another ſet in my room &amp; told me that he was going to the Generall, to deſire him to call me to a Coun<g ref="char:EOLhyphen"/>cell of Warre, I anſwered that I would be accountable for what I had ſpo<g ref="char:EOLhyphen"/>ken, and would juſtifie the ſame, I then deſired the Committee to chuſe ano<g ref="char:EOLhyphen"/>ther in my roome, that I might be no ſtop to their proceedings, but the Com<g ref="char:EOLhyphen"/>mittee were unwilling ſo to doe, but I preſſing the ſame, they new choſe the whole foure, after which I heard no more of that matter.</p>
+            <p>
+               <hi>I</hi> being ſenſible of what deſigne was laid by ſome great men, and knowing how farre ſhort it came of comprehending generall freedome, and preſerving all intereſt, according to our Firſt declaration, I did by my endeavours labour
+<pb n="2" facs="tcp:161273:3"/>to breake that prerogative deſign, and to informe others what <hi>J</hi> knew there<g ref="char:EOLhyphen"/>of, upon which grounds there was diſpleaſure conceived againſt me, and e was informed before the next generall Councell ſate, there was an intention to caſt me out of the Councell, which the Lievtenant Generall did ingeni<g ref="char:EOLhyphen"/>ouſly acknowledge, the great thing that I conceived to be the cauſe thereof, was the oppoſing the faſtning the Generalls negative voice over the Grand Councell. My Lord <hi>Sayes</hi> ſonne informing a Member of Mr. <hi>Goodwins</hi> Church, that all things went on very well, and that there was but one man oppoſed, which he named to be my ſelfe, in oppoſing the Generalls nega<g ref="char:EOLhyphen"/>tive voice. So that what I ſpeake in relation to the viſible authority of the kingdome, and the power and force of the ſword, upon which the Declarati<g ref="char:EOLhyphen"/>on was ſet forth to the kingdome as the cauſe of my expulſion, was grounded upon that accidentall occaſion, the cauſe being before declared.</p>
+            <p>Immediately after, I was put of that imployment, I went to the Regi<g ref="char:EOLhyphen"/>ment that imployed me, and gave them a full account of the whole, and de<g ref="char:EOLhyphen"/>ſired them to ſend another in my roome, they deſired me to withdraw, which I did, and they immediately drew up theſe lines as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Honourable the grand Councell of the Army.</head>
+                  <p>THe humble deſires of us the Officers, and Soldiers of his Excellencies Regiment of Foot, are, that this Honourable Councell would be plea<g ref="char:EOLhyphen"/>ſed to ſatisfie us upon what grounds Major <hi>White</hi> formerly choſen by us for our Agitator, is diſmiſſed from a capacitie of diſcharging that truſt by us re<g ref="char:EOLhyphen"/>poſed in him, whom we have ajudged both honeſt and faithfull, and have no ſolid grounds as yet to thinke otherwiſe of him, and we doe ſubſcribe out ſelves yours and the kingdoms ſervants according to our Engagement in the faithfull diſcharge of our duties.</p>
+               </body>
+            </floatingText>
+            <p>This was ſigned by all the Cptaines, Lievtenants, Enſignes, and Agitators of the Regiment then preſent at a Convention at <hi>Rygate</hi> in <hi>Surry, Saterday September</hi> 11 1647.</p>
+            <p>But my Lievtenant Colonell, and two Captaines being not preſent, it was ordered to ſtay till <hi>Munday</hi> before it was ſent, to re<g ref="char:EOLhyphen"/>ceive their hands, but they underſtanding which way the ſtream run, and of what conſequence this might prove, procured the alteration of the ſame, ſince which time I have been very little acting in any thing in relation to the publike affaires, more then my imployment with the Regiment. And being neceſſitated to make meanes for preſervation. which is the alone cauſe of publiſhing hereof. On <hi>Friday</hi> after, the Officers of the Regiment under my command, comming unto me with demands, which <hi>I</hi> was not bound to give them an account, but I being willing to give them ſatisfaction, I did deſire
+<pb n="3" facs="tcp:161273:3"/>to walke into the garden at my Quarters, and diſcourſe the matter, then did I ſhew them this letter following, which I ſent to the Generall, which contained my principles, and told them it was well known at the Head Quarters, notwithſtanding they went away unſatisfied, I deſiring to in<g ref="char:EOLhyphen"/>forme them more at large, drew up this paper hereunto annexed, and inten<g ref="char:EOLhyphen"/>ded to have preſented it to them the <hi>Friday</hi> following, but on the <hi>Munday,</hi> contrary to my expectation, all the Officers came to town, and ſent to me de<g ref="char:EOLhyphen"/>ſiring to ſpeake with me, when I came to them they preſented divers Arti<g ref="char:EOLhyphen"/>cles which they had collected from the former diſcourſe and deſired to know if I would own them, becauſe they did intend to ſend them to the Generall, and to call me to account for the ſame, I finding them contrary in circum<g ref="char:EOLhyphen"/>ſtances, and ſome ſubſtantiall to what I had ſpoken, did by their appro<g ref="char:EOLhyphen"/>bations draw up and contract theirs into theſe ſeaven heads following, and ſigned them with my own hand, expecting to be called to juſtifie the ſame. And knowing not what may be the iſſue, it ingageth me to publiſh the whole matter, that all men may know thereof, and if the Army and Commons will not own my cauſe, I ſhall with heart and good will ſeals it with my blood, unleſſe I am convinced of error.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Right Honourable his Excellency Sir <hi>Thomas Fairfax</hi> Generall.</head>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>IT is my deſire, that honour may be given to whom honour is due, and here is no man living more honourable in my account then your ſelfe, it would be an injuri us thing to detract from you where in you have mer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itted in the deliverance of this people ſo farre as now is. But ſeeing the end is not accom<g ref="char:EOLhyphen"/>pliſhed, nor yet in a viſible way for compleat deliverance, give me leave to plead with your Excellency in the behalfe of my ſelfe and the people, and to tell you, that your Excellency and the Army, are bound in duty towards God and this Nation, to endeavour a perfect deliverance in as much as humaine providence can provide for the ſetting the people free, which was the moving cauſe of our firſt taking up Arms, and ſeeing the Parliament which was the authority by whom we were directed, and were no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> properly the judges of the peoples freedome, did endeavour the continuance of more ſervill bondage, being perſwaded thereunto by the prevailance of the Pres<g ref="char:EOLhyphen"/>byterian faction of this kingdome and of <hi>Scotland,</hi> who made it the end of their deſires only to unſadle the Biſhops, and bring in the King to confirme the Presbyterie, and to make their faction moſt prevalent in Courts, with little
+<pb n="5" facs="tcp:161273:4"/>care to gratifie the exhauſted Commons for the expence of ſo much <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> blood, we waited long after the ſubduing of our enemies power. For the Par<g ref="char:EOLhyphen"/>liaments ſetling the Kingdom in peace &amp; freedom, but contrary to our and the peoples expectations we were provoked to reſiſt their authoritie, and to repell all power they could procure againſt us, theirs and the kingdomes beſt friends without asking who ſhould be judge of the juſtneſſe thereof, they or the Ar<g ref="char:EOLhyphen"/>my, it is eaſie when the ſun ſhinoth, for men to tell whether it be light or darke.</p>
+                  <p>And if any power now remaining, ſhall proceed in wayes of injuſtice, to ſupport their ſelfe intereſt by the helpe of a publique miniſtry, crying up au<g ref="char:EOLhyphen"/>thoritie to maintaine their greatneſſe, it will be in vaine to imagine, the conti<g ref="char:EOLhyphen"/>nuance thereof, certainly the higheſt and moſt legall authority in this king<g ref="char:punc">▪</g> come will appeare to be the Commons in Parliament, yet now I dare with confidence ſpeake it, they are not the higheſt power.</p>
+                  <p>That is properly the higheſt power that is beſt able to act, and that only the power of God among men, ſo long as they doe what is juſt, and are a terrour to evill workes, the Army now at your and his command in all juſt things, is the higheſt power viſible in this Kingdome, and if you ſee not a good Government eſtabliſhed for the weale of the people, according to equity and reaſon, it will lye upon your Excellencies and the Armyes ac<g ref="char:EOLhyphen"/>count.</p>
+                  <p>Now whether it be ſafe for the Army and people to ſet up the King by an act of Oblivion, and generall pardon, and to give him a neggative voyce by conſent, which before hath beene in diſpute; I leave your Excellency to judge, ſeeing no Ordinances of Paliament can be made Lawes upon this ac<g ref="char:EOLhyphen"/>count, but by his conſent it will be of little worth to the people, to have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> perpetuall Parliament or a Bieniall, which you pleaſe, it is a vaine thing for any to flatter themſelves with the advantage of the command of the Meli<g ref="char:EOLhyphen"/>tia, by ſea and land for ten yeares, when all the Judges of the Land are cor<g ref="char:EOLhyphen"/>rupt, and plead the Kings intereſt, and bound to it by oath, and the Lawes of the Land, and no way left for defence, but the Sword, which will prove but little, ſuccour, to a poore man eſpecially.</p>
+                  <p>Whether we have any reaſon to ſet up the King upon thoſe tea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mes, ſee<g ref="char:EOLhyphen"/>ing how clooſe he ſticks to his own partie, or whether he will not in ſeaven yeares, in all likely hood by pollicie, be a greater Conquerer, then he could have beene by the Sword? I leave it to your Excellency, and all wiſe men to judge, if your Excellency ſhall be pleaſed to conſider theſe things with can<g ref="char:EOLhyphen"/>did interpretation of my former actions knowne to your ſelfe, it will appeare that with integritie, I have ſought no other intereſt, then the generall free<g ref="char:EOLhyphen"/>dome of the people, and that which I ſpake in Counſell or elſe where, for
+<pb n="4" facs="tcp:161273:4"/>which I was expelled, and made uncapable of diſcharging that truſt, I can make manifeſt to be moſt true, only a judged unſeaſonable to croſſe the By<g ref="char:EOLhyphen"/>as of ſome mens affections, which we may have cauſe to wiſh a remedie, for when the oppertunitie is paſt, it will appeare no weakning of your authority, by indeavouring to prevent the faltering your negative voyce, over the grand Councell of the Army, who are to judge of ſatisfaction and ſecuritie in relation to dividing, or disbanding, or to declare any thing to the King<g ref="char:EOLhyphen"/>dome<g ref="char:punc">▪</g> in the name of the Army: this no way altereth the conduct, as a Ar<g ref="char:EOLhyphen"/>my acting in this capacity.</p>
+                  <p>It is farre from my heart to deſire the ſeting up the power and force of the for continuance, though <hi>I</hi> affirme as the condition of the Kingdome now is, there is no ſuperintendent authoritie, but what is exerciſed by the power and force of the Sword, and of neceſſitie for ſome time muſt be ſo, if we immediately give up ourſelves to the authority of Parliament, I know not but that all thoſe which have been our oppoſers, not exempted, may ſoon appeare too numerous for them that came to the Army, and the Minor glad to call for our helpe againe, as was the ſaying of one ſoon after our re-inſta<g ref="char:EOLhyphen"/>ting them, that they were not able to carrie on the buſineſſe without our hel<g ref="char:EOLhyphen"/>ping them, I know the people have cauſe to bleſſe God that the ſwords is in the hands of men of ſuch integritie to the publique, that deſire the continuance of the ſame no longer then all a happie government be eſtabliſhed, wherein there needs no ſuch pollicle to be uſed, as the making uſe of a publique mini<g ref="char:EOLhyphen"/>ſtrie to preach up a ſtates deſigne, but that is may be fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me, diſtinct from the Clergie, and all men to receive juſtice in what capacitie ſoever, to taſt of ſub<g ref="char:EOLhyphen"/>jection as well as di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſoveraignity, which is impoſſible to be brought to paſſe without eſtabliſhing the ſupreame law, making power in the Commons in Parliament and that changable, ſucceſſively by an indub<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tate Right, as in reaſon it ſhould be ſo to the people, there is no friend to Englands freedome, will oppoſe this in the reſtoring the kingdome to its antient Liberties as be<g ref="char:EOLhyphen"/>fore the Conqueſt, and if your Excellencie will with courage as hath been ne<g ref="char:EOLhyphen"/>ver wanting, make this your worke, you will never want the aſſiſtance of hands and heart of the people.</p>
+                  <p>Now I ſhall only crave pardon for my troubling your Excellencie, and re<g ref="char:EOLhyphen"/>maine your Excellencies ſervant in the recovering of Englands freedome.</p>
+                  <closer>
+                     <dateline>
+                        <hi>From</hi> Rygate, <hi>in</hi> Surrey, <date>Septemb. 23. 1647.</date>
+                     </dateline>
+                     <signed>Francis White.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:161273:5"/>
+            <head>An Account to the Officers of the Generalls Regiment, intended for ſatisfaction to their demands.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sirs,</salute>
+                  </opener>
+                  <p>YOu being unſatisfied in what I had delivered at the Generall Councell of the Army, I gave you ſome account. But ſeeing it was not ſatisfactory, I proceed to give you a more full relation of my principles, with indeavours to cleare the ſame.</p>
+                  <p>Your demands were thus, that ſeeing I affirme there is no viſible ſuperin<g ref="char:EOLhyphen"/>tendent authoritie in the Kingdome, but what is exerciſed by the power and force of the Sword, you deſire to know under what authority I ſtand in this Regiment as Major, I anſwered you.</p>
+                  <p>That I was made Major of the Generalls Regiment by Commiſſion from himſelfe before we had repelled the power which the City and Parliament had raiſed againſt the Army, but after the authority of the Parliament was diſobeyed &amp; the power they could procure againſt us, theirs &amp; the peoples beſt friends repelled,) and yet thoſe Members that acted or voted againſt us, ſitting in Parliament as ours and the Kingdomes judges, I acted no more under that account to the Parliament, but only under the authority of the Generall, by vertue of the Solemn Engagement of the Army, and by the approbation and conſent of the Regiment, not one man denying when J preſented my ſelfe their Major, J alſo ſaid that the Army was the higheſt power now viſible in this kingdome, and the Generall in chiefe authority, and a man whom J would obey in all commands from him that I did receive, which were juſt and honeſt according to my underſtanding, and that if he commanded me any injuſt thing, J would not obſerve it, nor act therein. J affirming that all authority is but miniſteriall in the perſons, and that neither God, nor the people hath given them authoritie to doe any unjuſt thing, neither will any people willingly be oppreſſed with injuſtice, and that the commands of a Superior Authoritie doe not juſtifie the inferior in unrighteous actions.</p>
+                  <p>J further declare, that whatſoever action is ſet for ward by vetrue of au<g ref="char:EOLhyphen"/>thoritie, that is unjuſt, and preſſed by power of ſtronger power may reſiſt and ſuppreſſe their power and the authorities alſo, if they perſiſt in the proſecuti<g ref="char:EOLhyphen"/>of it.</p>
+                  <p>It is the equitie of a thing that maketh it lawful. I know the ſtrong man ar<g ref="char:EOLhyphen"/>med keepeth his houſe, till a ſtronger then he commeth, I have well confide<g ref="char:EOLhyphen"/>red the words of the Apoſtle, <hi>Romans the</hi> 13. ſaying, <hi>Let every ſoule be ſubiect
+<pb n="7" facs="tcp:161273:5"/>to the higher powers, For there is no power but of God, the powers that be, we ordained of God, and they that reſiſt ſhall receive to themſelves damnation. For rulers are not a terror to good workes, but to evill, wilt thou then not be afraid of the power, doe that which is good, and thou ſhalt have praiſe of the ſam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </p>
+                  <p>Here the caſe is cleare, the powers that be are of God, even all powers in the world, now J affieme that that is properly power that is able to act wher<g ref="char:EOLhyphen"/>ſoever it is, and may reſiſt the uniuſt commands of authoritie, and if the au<g ref="char:EOLhyphen"/>thoritie doe gather ſtrength to inforce their uniuſt commands then may the power iuſtly caſt of obedience, and defend themſelves, and repell their ſtrength by force, this principle muſt of neceſſitie be granted or elſe all warre either offenſive or defenſive is unlawfull, and we have done evill in fighting againſt the Kings force, and likewiſe in ſuppreſſing thoſe powers raiſed in <hi>London</hi> by the Parliament. J acknowledge the Parliament if once purged of thoſe Members that aſſiſted the King in the former warre, and of thoſe that voted the raiſing of a new warr, to be the moſt legall and ſupreame au<g ref="char:EOLhyphen"/>thority of this Nation, though not ſo legall as it ought to be. And J affirme the Army the higheſt viſible power, and to be commanded and directed by the Parliament, and bound to obey all things iuſt which are commanded by them, it is cleare to me, the Maior part in them oft viſible capacitie to act, is the higheſt power, and he that reſiſteth them is culpable of the breach of this Scripture laid down be the Apoſtle, only obſerve this, every gaineſaying is not reſiſting, and J will never reſiſt any power, unleſſe J thought J ſinne if J did not.</p>
+                  <p>But if a Maior in a Nation riſe up to procure iuſtice and ſupp eſſe the Mi<g ref="char:EOLhyphen"/>nor, it is cleare to me they are the higheſt power and may iuſtly appoint au<g ref="char:EOLhyphen"/>thority over themſelves and all that ſhall concurre with them, or conſent thereto for their well being and ſafety, and may not be charged of reſiſting the higheſt power.</p>
+                  <p>There is no forme of government by divine appointment, but the voice of the people is the voice of God as much for one as another, and that is the moſt legall and iuſt authoritie which is ſet up by conſent, and that legally by judging, but to the generation that appointed it. For the father hath not pow<g ref="char:EOLhyphen"/>er to ingage the ſonne bus by conſent, and may not iuſtly make him a ſlave. Children are only to obey their parents in the Lord, that authority that is ſet up by force is to be obeyed in all juſt things, but if it grow corrupt and de<g ref="char:EOLhyphen"/>part from the wayes of iuſtice and righteouſneſſe, then may a people iuſtly de<g ref="char:EOLhyphen"/>liver themſelves from their oppreſſors, and repell their power by force. I tooke up armes at the firſt in iudgement and conſcience againſt the Kings power to procure deliverance for this people and Nation of my nativitle, from the oppreſſion and iniuſtice that was exerciſed by the King and his Miniſters,
+<pb n="7" facs="tcp:161273:6"/>and likewiſe oppoſed the Parliament upon the ſame grounds, and ſhall againe with heart and hand oppoſe tyranny and iniuſtice wherſoever J find it, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſhall inable me and make me a cleare way and call thereunto.</p>
+                  <p>J know the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e is a divine power over all the creatures in the world, and God ſuffereth the Divell to deceive men ſo, that out of zeale toward God, they thinke they doe him ſervice to diſtroy the Perſons of his people, and ſeeing there is ſuch actings to diſtroy honeſt people, J account it my duty to<g ref="char:EOLhyphen"/>wards God and the people, to indeavour by all meanes to preſerve them, and my ſelf knowing, that if J doe not uſe what meanes God giveth to preſerve naturall life, J am acceſſary to my own ruine, and become a ſelf murtheter.</p>
+                  <p>Jt is not difficult to be underſtood, that the authority and government of this kingdome, was ſet up by force, by the <hi>Norman</hi> Conquerer, and by po<g ref="char:EOLhyphen"/>licie and force faſtned by his ſucceſſors to theſe times, winding in the people into ſnares by craft, impoſing oaths of Alleagence and Supremacie, &amp;c. ſet<g ref="char:EOLhyphen"/>ting up a publique miniſtrie to preach up the authoritie divine, and to be ac<g ref="char:EOLhyphen"/>countable to God only, ſtrengthning it by the Gentry, which receive honour one of another, the King being the fountaine of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s honour, and all Lawyers having dependance on the King, plead his intereſt, and likewiſe the Law for<g ref="char:EOLhyphen"/>fitting him as much as the invention of man can imagine. But what reaſon can be given, that one mans wit ſhould contradict the wiſedome of 400 the wiſeſt men that can be choſen in a Nation, I know not; or that all lawes that a people ſhall chuſe for their well being and ſafety, ſhould be accounted of as acts of grace and favour from a ſingle perſon, unleſs it were in his power to conſum them, or they in his hands, as the clay in the hands of the potter? It is beyond my capacitie to conceive the equitie thereof, this is no other but the adoring that image ſpoken of in <hi>Daniell</hi> the ſecond, which ſhall be as ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ffe before the threſhing flowre, verſe 26.</p>
+                  <p>Now that the Armie, Parliament, and Citie and Commons of the Land, which have ioyned with them, ſhould aske the King an act of oblivion, and generall pardon after they have conquered his power, is moſt prepoſirous and ignorane, and will clearly in my judgement through the guilt of blood, which is little thought of upon themſelves, and make him meerly paſſive, which hath been moſt active.</p>
+                  <p>Now for the prevention of thoſe miſchiefes that may fall upon us, and for the ſetling a firme peace for the ſafety of the whole, J ſee no other way but to ſtand to the Houſe of Commons, who firſt called us together, and with the con<g ref="char:EOLhyphen"/>ſent of the people eſtabliſh the ſupreame law making power in their Houſe, which are the moſt proper repreſentative of the people, and to procure that changeable and equally choſen for the future by an indubitat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> right.</p>
+                  <p>J am ſencible that if we ſhould receive an act of oblivion from the King,
+<pb n="8" facs="tcp:161273:6"/>which <hi>I</hi> never will accept of, yet may the next King call us <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> account, or if he will nor, yet the law will, which is a written ſetter, and will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ill us, and hang the Iudges if proſecuted, which ſhall give ſentence contrary thereto, we have ſome experience hereof in the caſe of <hi>Iames Symballs, Crab, White,</hi> and <hi>Ward,</hi> which were all ſentenced to the confiſcation of their eſtates and to im<g ref="char:EOLhyphen"/>priſonment, during the Kings pleaſure, for ſpeaking words againſt the King, in the time of the late wars, and at the Armies marching through <hi>London,</hi> ſome of them had inlargement by Mr. <hi>Deveniſh,</hi> for which he was fined 60. l. to the King, and ſome remaine in priſon at this day, notwithſtanding i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hath been inſiſted upon by the Armie for their inlargement.</p>
+                  <p>The like example of a Soldier of Col. <hi>Roceſtors</hi> Regiment, ſentenced by Iudge <hi>Reeves</hi> and <hi>Bacon,</hi> contrary to the Law of Arms, notwithſtanding the Parliament gave them inſtructions not to meddle in matters of the Military affaires and the Generall ſent his letter to them deſiring he might be ſent to the Army to be tryed at the Martiall-law as a Soldier ought to be. For all this the Iudges writ to the Generall, which letter I red, ſigned with their names, that they could not doe it, and in another letter from Col. <hi>Twiſſelton,</hi> then Major, informing that the Iury brought in verdict not guilty, yet the Iudges ſent them backagaine, tell they brought in their verdict for man ſlaughter, and then the Souldier was burned in the hand. If ſuch affronts and ſufferings may be put upon an Army in full power and ſtrength, I know not what may our miſchiefes, nor where or when our miſeries may end, if we have not ſure ſecuritie before the power of the Army be ſcattered, and before I would be ſo regardleſſe of thoſe Soldiers that had acted in this imployment, I would ſa<g ref="char:EOLhyphen"/>crifice, my life in pleading for their deliverance.</p>
+                  <p>I ſee no ſufficient ſecuritie, but by turning the currant of the lawes to run in the name of the Commons of <hi>England,</hi> which will be for the generall ſafetie, which is the ground and primitive end of all law.</p>
+                  <p>Deare Sir, ny heart is towards you and all men, with affection and love, even to the moſt bitter enemie <hi>I</hi> have, and <hi>I</hi> ſpeak it in the preſence of God, J know no deſire of my heart running after profit or honour or with any a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i<g ref="char:EOLhyphen"/>moſſitie againſt any mans perſon, or generall partie, but deſire that pure ju<g ref="char:EOLhyphen"/>ſtice may be exerciſed, which is part of the image of the diety, if not part of the eſſence. I deſire that the poore of this people may be raiſed to a condition of livelyhood and ſubſiſtance, and that priſoners may be executed, judged, or reſtored, and not have their priſons made places of execution, which were ne<g ref="char:EOLhyphen"/>ver ordained to that end, but to keep perſons in cuſtodie tell time of tryall. I deſire not a diſſolution of all government, or a partie that hath been retorted. For I know ſo long as there is corruption among men, there muſt be govern<g ref="char:EOLhyphen"/>ment to ſuppreſſe licentiouſneſſe and wrong, and to incourage godlineſſe
+<pb n="10" facs="tcp:161273:7"/>and honeſly according to the light of God manifeſt. It would be no difficult thing to cleare theſe principles from the law of nature, Scripture, and Reaſon.</p>
+                  <p>It is farre of my thoughts for promoting any deſign for a partie, or to pro<g ref="char:EOLhyphen"/>cure the alteration of the conduct of the Army either in whole or in part, or particular perſon, for I thinke the Officers to be the creame of the Army, and the Army, ſuch as is not parralell in the world, and if their judgements be convinced, and their way cleare, for action I am confident they would not feare the power of the earth, it is wicked pollicie will be their greateſt miſchiefe.</p>
+                  <p>We have had to much experience of former declarations, Proteſtations, and promiſes, and though the parties meane really to performe them, yet one party may turn over another, and they may be eaſily trampled upon, and ſoone forgotten, therefore what reaſon have we to truſt the King, or any o<g ref="char:EOLhyphen"/>ther for our future ſecurity, I know not. J am ſure that if the King be ſet up without further diminition of the regall power then is provided in the propo<g ref="char:EOLhyphen"/>ſalls of the Army, we ſhall never want ſubtill tormentors. J admire what ſtu<g ref="char:EOLhyphen"/>piditie it is that lyeth upon the ſpirits of gallant men, that doe not feare the lookes of the moſt daring enemie in the field, and yet their hearts faile them, when they looke upon a ſingle perſon.</p>
+                  <p>But for a little the more cleare illuſtration of the maine ſubiect of the in<g ref="char:EOLhyphen"/>perintendent authoritie, J ſtate a caſe parralell thus. The Lord Maior of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> hath the command of the Militia, he hath likewiſe the Regall Authority for adminiſtration of iuſtice, he calls a Councell of Aldermen and Common Councell men to conſider of ſome weighty affaires, and to determine of things for the weale of the City, there ariſeth a great difference among the Councell in matters of great importance to the City the Lord Maior and part of the Aldermen and Common Councell will have it one way, the Maior part will have it another way. The difference cauſeth a breach, the Lord Ma<g ref="char:EOLhyphen"/>ior pleadeth the Royaltie of the command of the Malitia, to force them to his and his parties prerogative principles, he calleth in the corrupt partie to his aſſiſtants, many <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ich Marchants, Monopolizers, with all his officers that a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ecotrupt, and all ſuch as feare juſtice, the Major part of the Councell call in the trades men, and all the free Commons of the City to defend their juſt rights and liberties, who willinglie aſſiſt them, and by whoſe meanes and helpe they ſubdue the Lord, Major and his partie, after which the Lord Ma<g ref="char:EOLhyphen"/>jor by flatterie, and the helpe of his agents, gaineth the Major part of that Councell, which directed the Commons, the Councell plead his intereſt; and ſeeke to put inſufferable abuſes upon the power that did preſerve them, and thoſe that were moſt faithfull<g ref="char:punc">▪</g> they reproach and contemn, and ſeeke to put in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>amie upon them, the powers beate long with much parience, but when
+<pb n="11" facs="tcp:161273:7"/>they ſee no way but ruine deſigned them, they refuſe the commands of this authority that commanded them, and ſeek to deliver themſelves and their friends from apparent ruine, and are cleare and juſtifiable in the ſuppreſſing the injuſtice of their authority, after which the ſaid Lord Major corrupteth ſome of the leaders of that power, and by the aſſiſtance of all his former par<g ref="char:EOLhyphen"/>ties that feare juſtice, or are ambitious, or coveteous for profit or honour, he is in a faire way, with a little loſſe to gaine the day, whether the power re<g ref="char:EOLhyphen"/>maining being the higheſt viſible in order, may not preſerve themſelves, I leave you to judge, when thoſe that have acted againſt this power, and are declared enemies to this power, and that they will not ſuffer thoſe uſurpers and intruders to ſit as their and the reſt of the Commons Iudges, where then is the viſible ſuper-intendent authority, I beſeech you reſolve me, it needs no applycation.</p>
+                  <p>I am ſure that it is power that firſt maketh authoritie to command in juſt things, God himſelfe had not authority over any thing, tell he had made ſome thing by his power to be at his command, it is evident that power ſet<g ref="char:EOLhyphen"/>leth authoritie, as in moſt kingdomes of the world, the authority and govern<g ref="char:EOLhyphen"/>ment hath been eſtabliſhed by the power and force of the ſword, and the people made ſubject to evill for feare, which I deſire may not be ſo with us. For my own part I doe not ſtand in feare of the power, when I doe what is juſt by the teſtimony of a good conſcience, I feare not them that kill the bo<g ref="char:EOLhyphen"/>dy only and can doe no more<g ref="char:punc">▪</g> I will be accountable for all actions to the high<g ref="char:EOLhyphen"/>eſt power, and if <hi>I</hi> cannot juſtifie my ſelfe, I will aske God and man forgive<g ref="char:EOLhyphen"/>neſſe, or ſuffer what God ſhall permit with joy, <hi>J</hi> know my own infirmities, paſſion, and weakneſſe, <hi>I</hi> know my own heart is deceitfull, yet if men and Dive<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s proſecute me, I ſhall appeare righteous and juſt through Chriſt before God my father, in whom I have my inioyment, peace, reconciliation, union and comfort, which maketh my heart more glad, then any worldly man is in the increaſe of his treaſure. Now if there be any thing here written which appears to you errors, I deſire you to endeavour to convince me, and I ſhall renounce the ſame, I leave it to your underſtanding, and to the God that gi<g ref="char:EOLhyphen"/>veth wiſedome, I ſhall pray both for you and my ſelfe, that he will give us wiſedome and teach us love and meekneſſe, that we may live together in peace, and happineſſe, and keep union in the wayes of righteouſneſſe, which is the deſire of him, who hath, is and ſhall be tell death, a ſervant to you, and the Commons of <hi>England.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Preſented to the Officers the Regiment at</hi> Ware. <date>Munday <hi>Octob.</hi> 16 1647.</date>
+                     </dateline>
+                     <signed>Francis White.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>I Did n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſeeke occaſion to publiſh theſe ſeaven heads enſuing, which were extracted out of many more, which the Officers of the Gen. Regiment had
+<pb n="11" facs="tcp:161273:8"/>drawn up as a charge againſt me, and likewiſe backing the ſame with a dec<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ation againſt the Caſe of the Army, and the Agents of the five Regiments of Horſe, promiſing the Generall their aſſiſtance to ſuppreſſe ſuch principles as <hi>I</hi> held forth, and likewiſe to ſuppreſſe thoſe perſons that had publiſhed that book in the name of five Regiments, which they ſaid were not 15. men<g ref="char:punc">▪</g> I little expected ſuch proceedings from thoſe that had declared themſelves ſo much my friends, and ſaid, my heart is as your heart, and we will ſtand and fall together.</p>
+                  <p>One <hi>Friday</hi> the 13. <hi>October</hi> when all the Officers were appointed to attend at the Head Quarters of the Regiment, as is our cuſtome once a weeke, they then made their demands, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch I told them I was not bound to give them account after ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> meeting, they come all to my Quarters, and deſires in away of love to be ſatisfied in my principles, but <hi>Ju<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>s</hi> like with a kiſſe to betray me they drew up their Articles from the tenor of my diſcourſe in the garden, but the Lord reward them, I ſhall endeavour to doe them a courteſie for the ſame, deſiring not to be overcome with evill, but to overcome evill with good. I would have read this paper of my account to them, before they pre<g ref="char:EOLhyphen"/>ſented their Articles and Declaration, but they deſired me to read it to them afterward which J did, yet notwithſtanding ſome would not heare with af<g ref="char:EOLhyphen"/>fection, nor conſider, but proceed with their buſineſſe, and after my extract<g ref="char:EOLhyphen"/>ing them into ſeaven heads, they al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ered their Declaration, and deſired me to ſigne it, which wou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d have been rediculous, I refuſed it, and three Cap<g ref="char:EOLhyphen"/>taines there preſent, and ſome Lievtenants and Enſignes.</p>
+                  <p>There being divers Articles drawn up by ſome Officers of the Gen. Regi<g ref="char:EOLhyphen"/>ment, which they brought to me, deſiring to know of me whether I would own them as my principles, is they charged them. I finding them imperfect to what I had ſpoken, drew up theſe enſuing as followeth, and ſigned them with my own hand.</p>
+                  <list>
+                     <item>1. That there is no ſuperintendent Authority in this Kingdome, but what is exerciſed by the power and force of the ſword.</item>
+                     <item>2. That the whole government of the kingdome, und<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r all the lawes that have been ſince the Conque<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, is, or ought to be made null, that are contrary to equitie, and ſuch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> government to be eſtabliſhed, that all perſons may ta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> of ſubjection as well as rule, which is impoſſible to be brought to paſſe, without eſtabliſhing the ſupream law, making power in the repreſentative of the peo<g ref="char:EOLhyphen"/>ple, and that changeable.</item>
+                     <item>3. That the Generall doth not ſtand ſo ſtrong by vertue of his Commiſſion from the Parliament, as he doth by vertue of the ſolemn Engagement of the Army.</item>
+                     <item>4 That whatſoever commands I ſhall receive from the Generall, I will o<g ref="char:EOLhyphen"/>bey
+<pb n="12" facs="tcp:161273:8"/>if juſt, and if in my approbation they appeare not juſt, I will not obey them. And if there be proſecution to diſtroy me for refuſing unjuſt com<g ref="char:EOLhyphen"/>mands, I will preſerve my ſelfe by power if I can, and this libertie I conceive every perſon in the kingdome ought to have.</item>
+                     <item>5. That the Maior part in the moſt viſible capacitie to act, is the higheſt power, and may refuſe the injuſt comm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nds of ſuperior authority.</item>
+                     <item>6 That the Parliament men<g ref="char:punc">▪</g> that ſate with Mr. <hi>Pellam,</hi> were as much a Parliament, as thoſe that ſate when the Members went to the King, and un<g ref="char:EOLhyphen"/>leſſe the Houſe be purged of thoſe perſons, that are unduly elected, and likewiſe of thoſe perſons that voted the raiſing a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ew warre, declared uſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ers and intruders by the Army, the Parliament is no Parliament, and ought not to be the Army and kingdoms Iudges.</item>
+                     <item>7. That the lawes of the Kingdome that were impoſed or ſetled by policie and ſtrength from the Conquerer and his ſucceſſors, which are adjudged pre<g ref="char:EOLhyphen"/>iudiciall to the people by the Commons, may be adhered, and that the Army are bound in duty and conſcience to God and the people to ſee it performed.</item>
+                  </list>
+                  <closer>
+                     <signed>Francis White.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe things before written containing matters of ſuch great importance, of ſuch generall concernment to all the Commons of England, and the heads drawn up, with a Declaration in relation to my ſelfe and others, by ſome Of<g ref="char:EOLhyphen"/>ficers of the Gen. Regiment, being ſent unto the Generall, I have therefore thought fit to publiſh the whole, for in relation of what hath paſſed in rela<g ref="char:EOLhyphen"/>tion to the matter for which I was expunged the Generall Councell of the Ar<g ref="char:EOLhyphen"/>my, that thoſe whom in concernes may rightly underſtand what intereſt I have proſecuted, and if it be not iuſt, and that which God and good people will own, I deſire I may be convinced, and I ſhall aske God and man forgive<g ref="char:EOLhyphen"/>neſſe, till which I ſhall proſecute the ſame till I dye, or am in bonds, I feare not the power of the world in well doing, for I know where juſtice<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, God is; and his divine omnipotencie will ſubdue them all, Chriſt is my rock on whom my refuge is grounded, and in whom <hi>I</hi> truſt, and whiles I walke under his banner, I am ſure <hi>I</hi> ſhall never be confounded if I ſwarve from the wayes of iuſtice and righteouſneſſe, I doe not expect protection, but deſire the God of heaven and earth to give up my body to diſtruction, yet I am ſure my redee<g ref="char:EOLhyphen"/>mer liveth, and my ſpirit ſhall be at reſt.</p>
+            <p>The ſupreame end of all actions ought to be the glory of God, the ſecond end, the ſafety of the people the foundation of which is laid in righteouſneſſe and iuſtice, which are concommitants with the former. But ſeeing every man will pretend the ſafetie of the people in his own way, it is of neceſſitie there be ſomething to bottome upon for finall determination, what is the ſafety of the people, and who ſhall be iudges thereof? I ſay not the King, not this
+<pb n="14" facs="tcp:161273:9"/>Parliament ſo unequally choſen, and ſo mixed, not the Army upon <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tearmes, but a free Parliament equally choſen, with every free man of age having his voice, and that Parliament to have its bounds, ſit how long to con<g ref="char:EOLhyphen"/>tinue, and ſo to have Parliaments ſucceſſively once a yeare or every two year at moſt, to whom all Officers of what quallity ſoever ſhall give an account, till which be accompliſhed, I ſhall never willingly <hi>aqui eſſe.</hi>
+            </p>
+            <p>But ſeeing this is a great worke in which we ſhall find oppoſition, it is of neceſſitie that the Soldery be preſerved, and kept in conſtant pay, to prevent free quarter, that great burthen, which will make the people hate them.</p>
+            <p>Then for the gaining and retaining the affections of the people, the priſo<g ref="char:EOLhyphen"/>ners muſt be pittied and delivered. And the Exciſe of all Engliſh commodi<g ref="char:EOLhyphen"/>ties taken of, and a period ſet for the diſſolution of the whole.</p>
+            <p>That there be a redreſſe in that great grievance of Tythes, that the wages of the hirelings labour be raiſed according to the rates of proviſions.</p>
+            <p>That wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owes, criples, mainted Soldiers, and fatherleſſe children may be effectually provided for.</p>
+            <p>That the people may be righted in point of accounts, that the wages of all Officers of publike imployment may be abated, that they may not be bought and ſold, nor coveted after. And that the wages of all field Officers of the Army made leſſer, and the foot Soldiers raiſed to 12. <hi>
+                  <abbr>d.</abbr> per diem,</hi> and the horſe according to their equipage.</p>
+            <p>That the buſineſſe for <hi>Jreland</hi> be proſecuted as ſoone as we are in a viſib<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſecuritie here, otherwiſe, we may ſend over Soldiers that will goe only for profit and honour, which will hardly prove true to the principles of righteouſneſſe and juſtice, but turne againe to cut our throats, as ſome have done before.</p>
+            <p>That no men be proſecuted with revenge for evill done out of their zeale according to their judgement and conſcience.</p>
+            <p>If the people once ſee this, the worke of the Parliament and Army, and that they doe not deale<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deceitfully with them, they will never want their affections, nor purſes to the conſumation of the worke.</p>
+            <p>Now if this writing, ſpeaking, and acting in truth, and the wayes of iuſtice, be accounted vile, I ſhall as <hi>David</hi> ſaid, be yet more vile.</p>
+            <closer>
+               <signed>Francis White.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
